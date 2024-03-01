@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Jeremy 👋
+I’m Jeremy
 
 I do Ruby and Rails for more than 10 years now, spending much of my time in the backend part, thinking about domain modelling, and iterating on existing features; but I do like quite a lot working of the frontend side using Hotwire.
 
